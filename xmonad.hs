@@ -5,6 +5,6 @@ main = xmonad gnomeConfig
        {
          modMask = mod4Mask
        , borderWidth = 2
-       , focusedBorderColor = "#F92672"
-       , normalBorderColor = "#e6db74"
+       , focusedBorderColor = "#1C86EE"
+       , normalBorderColor = "#1B1D1E"
        }
